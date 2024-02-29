@@ -1,0 +1,62 @@
+*  /*Le estamos eliminando los bordes para que ocupe todo*/
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#principal
+{
+    margin: auto;
+    margin-top: 30px; /*Margen de arriba*/
+    width: 600px;
+    height: 600px;
+    background-color: aquamarine;
+    border-radius: 30px;  /*PARA PONERLE UN BORDE CIRCULAR*/
+    border-style: solid; /*PARA QUE SE NOTE EL MARGEN*/
+}
+
+#cabeza
+{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 100px;
+    margin: auto;
+    border: solid;
+
+}
+
+#brazos
+{
+    
+    width: 500px;
+    height: 10px;
+    background-color: brown;
+    border-radius: 200px;
+    margin: auto;
+    border: solid;
+}
+
+#torso
+{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 200px;
+    margin: auto;
+    border: solid;
+}
+
+#piernas
+{
+    width: 290px;
+    height: 290px;
+    background-color: white;
+    border-radius: 200px;
+    margin: auto;
+    border: solid;
+
+}
+
+
